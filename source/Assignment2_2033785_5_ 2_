@@ -1,0 +1,16 @@
+K=2 precision: 0.765114, recall: 0.732873, f1 score: 0.746064, accuracy: 0.808750
+K=4 precision: 0.822172, recall: 0.728152, f1 score: 0.754473, accuracy: 0.833750
+K=6 precision: 0.846831, recall: 0.740105, f1 score: 0.769710, accuracy: 0.841250
+K=8 precision: 0.859159, recall: 0.694358, f1 score: 0.721160, accuracy: 0.828750
+K=10 precision: 0.860319, recall: 0.689397, f1 score: 0.712655, accuracy: 0.835000
+K=12 precision: 0.876920, recall: 0.704402, f1 score: 0.733356, accuracy: 0.838750
+K=14 precision: 0.875071, recall: 0.686617, f1 score: 0.707264, accuracy: 0.838750
+K=16 precision: 0.871801, recall: 0.676856, f1 score: 0.692126, accuracy: 0.837500
+K=18 precision: 0.869734, recall: 0.674576, f1 score: 0.690244, accuracy: 0.835000
+K=20 precision: 0.886367, recall: 0.657015, f1 score: 0.661999, accuracy: 0.831250
+K=25 precision: 0.881400, recall: 0.648299, f1 score: 0.651022, accuracy: 0.823750
+K=30 precision: 0.878603, recall: 0.628865, f1 score: 0.616465, accuracy: 0.817500
+K=35 precision: 0.875967, recall: 0.616688, f1 score: 0.593820, accuracy: 0.813750
+K=40 precision: 0.872188, recall: 0.612212, f1 score: 0.589453, accuracy: 0.807500
+K=45 precision: 0.869721, recall: 0.602404, f1 score: 0.571807, accuracy: 0.802500
+K=50 precision: 0.869283, recall: 0.601075, f1 score: 0.570195, accuracy: 0.800000

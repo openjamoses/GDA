@@ -1,0 +1,19 @@
+K=2 precision: 0.542500, recall: 0.542500, f1 score: 0.542500, accuracy: 0.542500
+K=4 precision: 0.552500, recall: 0.552500, f1 score: 0.552500, accuracy: 0.552500
+K=6 precision: 0.570000, recall: 0.570000, f1 score: 0.570000, accuracy: 0.570000
+K=8 precision: 0.553750, recall: 0.553750, f1 score: 0.553750, accuracy: 0.553750
+K=10 precision: 0.535000, recall: 0.535000, f1 score: 0.535000, accuracy: 0.535000
+K=12 precision: 0.570000, recall: 0.570000, f1 score: 0.570000, accuracy: 0.570000
+K=14 precision: 0.565000, recall: 0.565000, f1 score: 0.565000, accuracy: 0.565000
+K=16 precision: 0.568750, recall: 0.568750, f1 score: 0.568750, accuracy: 0.568750
+K=18 precision: 0.566250, recall: 0.566250, f1 score: 0.566250, accuracy: 0.566250
+K=20 precision: 0.573750, recall: 0.573750, f1 score: 0.573750, accuracy: 0.573750
+K=15 precision: 0.562500, recall: 0.562500, f1 score: 0.562500, accuracy: 0.562500
+K=20 precision: 0.573750, recall: 0.573750, f1 score: 0.573750, accuracy: 0.573750
+K=25 precision: 0.557500, recall: 0.557500, f1 score: 0.557500, accuracy: 0.557500
+K=30 precision: 0.556250, recall: 0.556250, f1 score: 0.556250, accuracy: 0.556250
+K=35 precision: 0.540000, recall: 0.540000, f1 score: 0.540000, accuracy: 0.540000
+K=40 precision: 0.537500, recall: 0.537500, f1 score: 0.537500, accuracy: 0.537500
+K=45 precision: 0.542500, recall: 0.542500, f1 score: 0.542500, accuracy: 0.542500
+K=50 precision: 0.540000, recall: 0.540000, f1 score: 0.540000, accuracy: 0.540000
+
